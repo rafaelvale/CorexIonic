@@ -1,0 +1,11 @@
+C:\projetos\CORExIONIC\YouLearn\YouLearn.Domain\bin\Debug\netcoreapp2.0\YouLearn.Domain.deps.json
+C:\projetos\CORExIONIC\YouLearn\YouLearn.Domain\bin\Debug\netcoreapp2.0\YouLearn.Domain.dll
+C:\projetos\CORExIONIC\YouLearn\YouLearn.Domain\bin\Debug\netcoreapp2.0\YouLearn.Domain.pdb
+C:\projetos\CORExIONIC\YouLearn\YouLearn.Domain\obj\Debug\netcoreapp2.0\YouLearn.Domain.Resource.MSG.resources
+C:\projetos\CORExIONIC\YouLearn\YouLearn.Domain\obj\Debug\netcoreapp2.0\YouLearn.Domain.csproj.GenerateResource.cache
+C:\projetos\CORExIONIC\YouLearn\YouLearn.Domain\obj\Debug\netcoreapp2.0\YouLearn.Domain.csproj.CoreCompileInputs.cache
+C:\projetos\CORExIONIC\YouLearn\YouLearn.Domain\obj\Debug\netcoreapp2.0\YouLearn.Domain.AssemblyInfoInputs.cache
+C:\projetos\CORExIONIC\YouLearn\YouLearn.Domain\obj\Debug\netcoreapp2.0\YouLearn.Domain.AssemblyInfo.cs
+C:\projetos\CORExIONIC\YouLearn\YouLearn.Domain\obj\Debug\netcoreapp2.0\YouLearn.Domain.dll
+C:\projetos\CORExIONIC\YouLearn\YouLearn.Domain\obj\Debug\netcoreapp2.0\YouLearn.Domain.pdb
+C:\projetos\CORExIONIC\YouLearn\YouLearn.Domain\obj\Debug\netcoreapp2.0\YouLearn.Domain.csprojAssemblyReference.cache

@@ -1,0 +1,8 @@
+C:\projetos\CORExIONIC\YouLearn\YouLearn.Shared\bin\Debug\netcoreapp2.0\YouLearn.Shared.deps.json
+C:\projetos\CORExIONIC\YouLearn\YouLearn.Shared\bin\Debug\netcoreapp2.0\YouLearn.Shared.dll
+C:\projetos\CORExIONIC\YouLearn\YouLearn.Shared\bin\Debug\netcoreapp2.0\YouLearn.Shared.pdb
+C:\projetos\CORExIONIC\YouLearn\YouLearn.Shared\obj\Debug\netcoreapp2.0\YouLearn.Shared.csproj.CoreCompileInputs.cache
+C:\projetos\CORExIONIC\YouLearn\YouLearn.Shared\obj\Debug\netcoreapp2.0\YouLearn.Shared.AssemblyInfoInputs.cache
+C:\projetos\CORExIONIC\YouLearn\YouLearn.Shared\obj\Debug\netcoreapp2.0\YouLearn.Shared.AssemblyInfo.cs
+C:\projetos\CORExIONIC\YouLearn\YouLearn.Shared\obj\Debug\netcoreapp2.0\YouLearn.Shared.dll
+C:\projetos\CORExIONIC\YouLearn\YouLearn.Shared\obj\Debug\netcoreapp2.0\YouLearn.Shared.pdb

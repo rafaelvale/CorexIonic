@@ -1,0 +1,16 @@
+C:\projetos\CORExIONIC\YouLearn\YouLearn.Infra\bin\Debug\netcoreapp2.0\YouLearn.Infra.deps.json
+C:\projetos\CORExIONIC\YouLearn\YouLearn.Infra\bin\Debug\netcoreapp2.0\YouLearn.Infra.runtimeconfig.json
+C:\projetos\CORExIONIC\YouLearn\YouLearn.Infra\bin\Debug\netcoreapp2.0\YouLearn.Infra.runtimeconfig.dev.json
+C:\projetos\CORExIONIC\YouLearn\YouLearn.Infra\bin\Debug\netcoreapp2.0\YouLearn.Infra.dll
+C:\projetos\CORExIONIC\YouLearn\YouLearn.Infra\bin\Debug\netcoreapp2.0\YouLearn.Infra.pdb
+C:\projetos\CORExIONIC\YouLearn\YouLearn.Infra\bin\Debug\netcoreapp2.0\YouLearn.Domain.dll
+C:\projetos\CORExIONIC\YouLearn\YouLearn.Infra\bin\Debug\netcoreapp2.0\YouLearn.Shared.dll
+C:\projetos\CORExIONIC\YouLearn\YouLearn.Infra\bin\Debug\netcoreapp2.0\YouLearn.Domain.pdb
+C:\projetos\CORExIONIC\YouLearn\YouLearn.Infra\bin\Debug\netcoreapp2.0\YouLearn.Shared.pdb
+C:\projetos\CORExIONIC\YouLearn\YouLearn.Infra\obj\Debug\netcoreapp2.0\YouLearn.Infra.csprojAssemblyReference.cache
+C:\projetos\CORExIONIC\YouLearn\YouLearn.Infra\obj\Debug\netcoreapp2.0\YouLearn.Infra.csproj.CoreCompileInputs.cache
+C:\projetos\CORExIONIC\YouLearn\YouLearn.Infra\obj\Debug\netcoreapp2.0\YouLearn.Infra.AssemblyInfoInputs.cache
+C:\projetos\CORExIONIC\YouLearn\YouLearn.Infra\obj\Debug\netcoreapp2.0\YouLearn.Infra.AssemblyInfo.cs
+C:\projetos\CORExIONIC\YouLearn\YouLearn.Infra\obj\Debug\netcoreapp2.0\YouLearn.Infra.csproj.CopyComplete
+C:\projetos\CORExIONIC\YouLearn\YouLearn.Infra\obj\Debug\netcoreapp2.0\YouLearn.Infra.dll
+C:\projetos\CORExIONIC\YouLearn\YouLearn.Infra\obj\Debug\netcoreapp2.0\YouLearn.Infra.pdb
